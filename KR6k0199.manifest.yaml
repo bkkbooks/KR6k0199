@@ -1,0 +1,87 @@
+canonical_identifier: bkk:krp/KR6k0199/v1
+canonical_location: https://kanripo.org/bkk/KR6k0199/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 慈悲水懺法
+  identifiers:
+    alt_id:
+    - T45n1910
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1910.xml
+    old_id: T45n1910
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0199_000.yaml, hash: 'sha256:26273e4e79be6c895737617990ce4bc07653a96f3a9bfba25993cba031ccf7e0'}
+  - {seq: 1, filename: KR6k0199_001.yaml, hash: 'sha256:3863b50c0d0ff15a97d5f44b16c200e40d493896a88e286981c36d74caf7026b'}
+  - {seq: 2, filename: KR6k0199_002.yaml, hash: 'sha256:b0ad486017f219493bded74ef4669adb05f6bc69ff8e1d8929e84103634e91b5'}
+  - {seq: 3, filename: KR6k0199_003.yaml, hash: 'sha256:11a999f88be2bbb347e40b06fbde92832cff6011e6645a0a5425b045f9fe2e42'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0199_000.markers.yaml, hash: 'sha256:fa2d47066bdf55d67ee3336f1617e0c7052dfcd208e04eaaf78735c053d9420b'}
+  - {seq: 1, role: markers, filename: assets/KR6k0199_001.markers.yaml, hash: 'sha256:40b5f069293aed04e41eb960063c8562a8befd3345c42990a1761c6819e0dfc9'}
+  - {seq: 2, role: markers, filename: assets/KR6k0199_002.markers.yaml, hash: 'sha256:44d87d3e341d55e283a00f84f42bfe86cff4944a7e71368f7ca7919217f3b941'}
+  - {seq: 3, role: markers, filename: assets/KR6k0199_003.markers.yaml, hash: 'sha256:8d89a3be8b74c5c5fad74e28f89b03b5763da013132b992ca45eb01aa5484712'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0199_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 御製水懺序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0199_T_000-mulu-2
+    span:
+    - front
+    - 1116
+    - 1116
+  label: 啟運慈悲道場懺法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0199_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3879
+  label: 慈悲水懺法卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0199_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5433
+  label: 慈悲水懺法卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0199_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 4600
+  label: 慈悲水懺法卷下
+  type: juan
+  level: 1
+hash: sha256:fb805efa8a9d52c15dbc1586fa5599e1ca82004d42f81b4f3a6d93f2bf738c8e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
