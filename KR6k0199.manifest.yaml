@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0199/v1
 canonical_location: https://kanripo.org/bkk/KR6k0199/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 慈悲水懺法
   identifiers:
@@ -21,15 +21,15 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0199_000.yaml, hash: 'sha256:b3341b274e4485c404fe5445ea5268a89bf95b9cd71afd29438ff5dbcf2ed928'}
-  - {seq: 1, filename: KR6k0199_001.yaml, hash: 'sha256:7302b0a41702bf99c2ad4fb4e4cd2c0f829f5994fba728819f452f3bd4411869'}
-  - {seq: 2, filename: KR6k0199_002.yaml, hash: 'sha256:50a00157555f462a489716a28bd9512b081d1a8889da799ab8213cc8765d1bf4'}
-  - {seq: 3, filename: KR6k0199_003.yaml, hash: 'sha256:eaca952be1b64db1eef5d3c1f21c189f2567c2645be06e4b22f6524d3808500f'}
+  - {seq: 0, filename: KR6k0199_000.yaml, hash: 'sha256:161a229d94d72baac29d2af7011909ee3ea851fb0a3d16240f04879cf5048740'}
+  - {seq: 1, filename: KR6k0199_001.yaml, hash: 'sha256:a6a951ffd44d9a0e0ab93be5cd17ee1b7369054837931a4459fe040afd24629f'}
+  - {seq: 2, filename: KR6k0199_002.yaml, hash: 'sha256:72820048ef1580dae2ecf0e815c9f3fd915f2b6360a4d3738a2108f4850caf02'}
+  - {seq: 3, filename: KR6k0199_003.yaml, hash: 'sha256:7a7808f4cc038be3e21d03e13f4b09649376d5e3654b902df15de707784f5c66'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0199_000.markers.yaml, hash: 'sha256:9b1793d1c92d9e3e4bbb8687789441132f14d33c720141a2d61d76e6a54d6705'}
-  - {seq: 1, role: markers, filename: assets/KR6k0199_001.markers.yaml, hash: 'sha256:eb44b1a7f36f123d9c831e50e4a926d61ac6150bbbcc28c9b80cfa53629e8308'}
-  - {seq: 2, role: markers, filename: assets/KR6k0199_002.markers.yaml, hash: 'sha256:d54b31db8a2693a5be57c0da6eaa05cd194f329089acdb68bd2eeb3502ae3bef'}
-  - {seq: 3, role: markers, filename: assets/KR6k0199_003.markers.yaml, hash: 'sha256:c70e936044163e3d45dcd926ec420e42df07fc865bbff52890b6332e49e7549f'}
+  - {seq: 0, role: markers, filename: assets/KR6k0199_000.markers.yaml, hash: 'sha256:cef83f7c1a4dbd2df7e0375a1dfe0c31454deee476c11aeb433a404bbfb88875'}
+  - {seq: 1, role: markers, filename: assets/KR6k0199_001.markers.yaml, hash: 'sha256:a109926482ae1185a062482f2f0d4d0d428e2cd9f04ed65a42a03f44dd0cbb30'}
+  - {seq: 2, role: markers, filename: assets/KR6k0199_002.markers.yaml, hash: 'sha256:86b881ece26dbc791e4b0287c32867425d1aa02130b0524cd81e0af81ae3aca3'}
+  - {seq: 3, role: markers, filename: assets/KR6k0199_003.markers.yaml, hash: 'sha256:a0dcf370114ea7a9ebf0936ae5a62f6580c3594884e2d77e5c77ebdf665ba9d7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,4 +81,7 @@ table_of_contents:
   label: 慈悲水懺法卷下
   type: juan
   level: 1
-hash: sha256:9657f48397aa50e6ea54af88d556b9064da15ff74b20f33fc59ce804eed436b2
+hash: sha256:730fe09ba9cb5fcbcdffb359917043af0e8ca03cb8580ea5dab34f79b3885334
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
